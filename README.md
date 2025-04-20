@@ -62,7 +62,7 @@ src/
 5. 文件上传：FileController 处理 /upload 接口，存储至 static/upload 目录
 
 浏览器要求：谷歌浏览器（Chrome 85+）
-```
+
 
 # 项目实际截图：
 
